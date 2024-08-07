@@ -7,6 +7,8 @@ This is a simple password manager implemented in Python. It allows users to save
 Before running the code, make sure you have the following installed:
 
 - Python 3.x
+- Install pip version
+- Install pycyptodome from pip - (pip install pycryptodome)
 
 ## Getting Started
 
